@@ -1,4 +1,0 @@
----- TEMP DB
--- Geçici tablolarýn oluþturulduðu iþlemler burada gerçekleþir.
--- Kullanýcý veritabanlarýndan çekilen verileri group by, order by, sum, coount, max, min
--- gibi komutlarla özetlemek amacýyla kullandýðýmýz aggregation iþlemleri için de Temp Db kullanýlýr.
