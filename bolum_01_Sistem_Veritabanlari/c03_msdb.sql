@@ -1,3 +1,0 @@
----- MSDB
---Sql server agent servisinin kullanýldýðý veritabanýdýr.
--- Periyodik olarak çalýþtýrýlan her türlü iþlem (jobs, schedules, alerts) burada tutulur.
